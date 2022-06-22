@@ -1,4 +1,4 @@
 # basic-arithmetic
 
 ### Links
-- Live Site URL: [GitPages](https://muakone.github.io/basic-arithmetic/)
+- Live Site URL: [https://muakone.github.io/basic-arithmetic/](https://muakone.github.io/basic-arithmetic/)
